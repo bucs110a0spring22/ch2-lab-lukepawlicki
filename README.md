@@ -22,4 +22,4 @@ Grace days remaining: 5/5
 None
 
 ## MISCELLANEOUS COMMENTS:
- I included a string statement of "classes per week" when I printed the value and type of that variable. Just wanted to make it more clear that the 2 in the code was with that variable and not cost per week.
+None
