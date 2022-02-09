@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ In Part A, the program uses data such as tuition, weeks of school, and classes to calculate some costs such as cost per week and cost per class. Part B selects a random object from a list that I created. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I included a string statement of "classes per week" when I printed the value and type of that variable. Just wanted to make it more clear that the 2 in the code was with that variable and not cost per week.
